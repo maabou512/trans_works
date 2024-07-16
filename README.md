@@ -1,2 +1,5 @@
-# trans_works
-Translation works using Machine Translation(Gemini and so on.) 
+# Various Translation works
+
+- Collaborating with Generative AI such as Gemini
+
+ 
